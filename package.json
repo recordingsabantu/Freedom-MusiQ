@@ -1,0 +1,20 @@
+{
+  "name": "freedom-musiq-portal",
+  "version": "1.1.0",
+  "private": true,
+  "homepage": "https://souldust-music-distribution-app.github.io/Bossman-Entertainment-Gigs",
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-scripts": "5.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.3"
+  }
+}
