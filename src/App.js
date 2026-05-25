@@ -133,7 +133,7 @@ export default function App() {
                 <img
                   src="31a22e3d-9c47-4ae6-9b4e-b09f5a73426b.png"
                   alt="Freedom MusiQ Master Portrait"
-                  className="w-full h-full object-cover transition duration-700 group-hover:scale-102"
+                  className="w-full h-full object-cover transition duration-700 group-hover:scale-105"
                 />
               </div>
 
